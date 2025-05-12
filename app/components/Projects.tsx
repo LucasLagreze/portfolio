@@ -21,7 +21,7 @@ export default function Projects() {
         transition={{ duration: 0.6 }}
         className="text-2xl md:text-3xl font-semibold text-gray-900 mb-6"
       >
-        Projets d'école
+        Projets d école
       </motion.h2>
       <div className="space-y-6">
         {schoolProjects.map((p, i) => (

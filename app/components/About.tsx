@@ -18,7 +18,7 @@ export default function About() {
         transition={{ delay: 0.2, duration: 0.5 }}
         className="text-gray-700 leading-relaxed max-w-2xl"
       >
-        Salut! Je suis un développeur web spécialisé en PHP et Next.js avec TypeScript. J'ai plus de 5 ans d'expérience dans la création d'applications robustes et performantes.
+        Salut! Je suis un développeur web spécialisé en PHP et Next.js avec TypeScript. J ai plus de 5 ans d expérience dans la création d applications robustes et performantes.
       </motion.p>
     </section>
   );
